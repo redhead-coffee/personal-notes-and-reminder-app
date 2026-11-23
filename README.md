@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Notes and Reminder
 
 A simple Android application for managing personal notes and reminders in one place.
@@ -178,3 +179,7 @@ git push origin feature/your-feature
 ```
 
 6. Open a Pull Request.
+=======
+# personal-notes-and-reminder-app
+An PBL based collaborative project as Android Application
+>>>>>>> 5c637b5a1ea663e2afde98292cae51f6876b436e
